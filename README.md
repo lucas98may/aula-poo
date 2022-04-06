@@ -1,2 +1,2 @@
-# aula-poo
+# Trabalhando com GitHub
 Apredendo a usar o Github
