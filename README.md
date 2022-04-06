@@ -1,2 +1,4 @@
 # Trabalhando com GitHub
-Apredendo a usar o Github
+
+-Criar repositório
+-Colocando tokens de acesso 
